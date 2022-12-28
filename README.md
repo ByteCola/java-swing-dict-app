@@ -42,5 +42,5 @@
 
 ## 👉 联系我
 
-![bytecola.png](img_1.png)
+![bytecola.png](bytecola.png)
 
